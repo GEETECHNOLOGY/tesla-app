@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.215.179.120:8081/landmark/repository/tesla-george-releases/</url>
+	      <url>http://54.89.140.131:8081/landmark/repository/tesla-george-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.215.179.120:8081/landmark/repository/tesla-george-snapshots/</url>
+	      <url>http://54.89.140.131:8081/landmark/repository/tesla-george-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
