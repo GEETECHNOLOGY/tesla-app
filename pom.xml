@@ -100,7 +100,6 @@
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://3.80.22.214:8081/landmark/repository/group37-tesla-releases/</url>
 	    </repository>
-	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
